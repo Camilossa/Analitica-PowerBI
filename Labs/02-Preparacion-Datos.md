@@ -15,7 +15,7 @@ En este laboratorio, aprenderá a:
 - Aplicar varias transformaciones
 - Carga de consultas en el modelo de datos
 
-**Este laboratorio debe durar unos 45 minutos**.
+**Este laboratorio debe durar unos 60 minutos**.
 
 ## Introducción
 
