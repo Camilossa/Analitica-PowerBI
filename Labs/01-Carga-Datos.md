@@ -61,6 +61,7 @@ Esta tarea le enseña a conectarse a una base de datos de SQL Server e importar 
 1. Para importar los datos de tabla, **activa la casilla** situada junto a las tablas siguientes:
 
     - DimEmployee
+    - DimEmployeeSalesTerritory
     - DimProduct
     - DimReseller
     - DimSalesTerritory
@@ -68,7 +69,7 @@ Esta tarea le enseña a conectarse a una base de datos de SQL Server e importar 
 
 1. Completa esta tarea seleccionando **Transformar datos**, lo que abrirá el editor de Power Query; déjalo abierto para la siguiente tarea.
 
-Ahora te has conectado a cinco tablas de una base de datos de SQL Server.
+Ahora te has conectado a seis tablas de una base de datos de SQL Server.
 
 ## **Vista previa de datos en el Editor de Power Query**
 
