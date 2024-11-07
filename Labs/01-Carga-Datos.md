@@ -15,7 +15,7 @@ Este laboratorio está diseñado para presentarle la aplicación de Power BI Des
 - Previsualizar los datos de origen con Power Query
 - Usar características de generación de perfiles de datos en Power Query
 
-**Este laboratorio debe durar unos 30 minutos**.
+**Este laboratorio debe durar unos 40-50 minutos**.
 
 ## Introducción a Power BI Desktop
 
