@@ -16,7 +16,7 @@ En este laboratorio, aprenderá a:
 - Configurar propiedades de tablas y columnas
 - Crear jerarquías
 
-**Este laboratorio debe durar unos 45 minutos**.
+**Este laboratorio debe durar unos 60 minutos**.
 
 ## Introducción
 
