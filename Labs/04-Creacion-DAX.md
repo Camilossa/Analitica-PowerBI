@@ -17,7 +17,7 @@ En este laboratorio, aprenderá a:
 - Crear columnas calculadas
 - Crear medidas
 
-**Este laboratorio debe durar unos 45 minutos**.
+**Este laboratorio debe durar unos 60 minutos**.
 
 ## Introducción
 
