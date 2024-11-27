@@ -17,7 +17,7 @@ En este laboratorio, aprenderá a:
 - Aplicar formato condicional
 - Crear y usar marcadores y botones
 
-**Este laboratorio debe durar unos 45 minutos**.
+**Este laboratorio debe durar unos 60 minutos**.
 
 ## Introducción
 
